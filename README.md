@@ -8,7 +8,7 @@ Unzip the provided file to a directory of your choice.
 ### 2. Compile the program  
 Use the following command to compile the C++ source file:  
 ```sh
-g++ 1.cpp -o library_system
+g++ main.cpp -o library_system
 ```
 
 ### 3. Run the program  
